@@ -1,0 +1,8 @@
+{
+  "name": "vue-click-outside",
+  "version": "1.0.0",
+  "description": "Vue-click-outside directive.",
+  "author": "phoeshow <phoeshow.me@gmail.com>",
+  "main": "src/vue-click-outside.js",
+  "license": "MIT"
+}
